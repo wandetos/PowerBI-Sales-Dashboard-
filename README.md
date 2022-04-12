@@ -1,4 +1,4 @@
-# PowerBI-Sales-Dashboard-
+# PowerBI-Sales-Dashboard Visualization
 This is a sales dashboard for a classified Supermarket Data in United States
 
 It was created to show-case my expertise and experience in PowerBI Business Intelligence, Data Analysis and Dashboarding
